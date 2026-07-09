@@ -11,7 +11,6 @@ redirect_from:
 
 招生信息
 ======
-
 招收学术型硕士和专业型硕士研究生，目前每年**2**个名额。
 
 欢迎电子信息、计算机、通信工程等专业方向的学生踊跃报名！
@@ -22,7 +21,6 @@ redirect_from:
 
 研究领域
 ======
-
 1. 遥感定向目标检测（Oriented Object Detection）、细粒度目标识别、变化检测
 2. 基础模型预训练、参数高效微调、生成模型 Diffusion Model
 3. 多模态遥感数据联合解译 Optical/Hyperspectral/VHR/Infrared/SAR、跨模态图文检索（Cross-domain Image-Text Retrieval）
@@ -40,3 +38,16 @@ redirect_from:
 2023.07至今，苏州大学，电子信息学院学院，讲师（优秀青年学者）
 
 2026.01至今，普源精电科技股份有限公司，博士后（苏州大学与企业联合培养）
+
+科研项目
+======
+1. 国家自然科学基金青年项目C类，30万，主持
+2. 江苏省高等学校自然科学研究面上项目，3万，主持
+3. 其他横向课题，累计19万，主持
+
+社会职务
+======
+1. 中国图像图形学会CSIG遥感图像专业委员会成员
+2. MDPI Remote Sensing特刊Guest Editor
+3. IEEE/中国图像图形学会CSIG/江苏省人工智能学会会员
+4. IEEE GRSM、IEEE TGRS、ISPRS、IEEE JSTARS、IEEE GRSL、RS、《遥感学报》、《电子学报》等期刊长期审稿人
