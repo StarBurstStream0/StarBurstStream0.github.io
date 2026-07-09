@@ -19,6 +19,8 @@ redirect_from:
 
 “不忘身心健康，保持快乐科研！”——实验室室训
 
+<img src="/images/group.png" alt="实验室成员（部分）" style="width:500px; border-radius:50%;">
+
 研究领域
 ======
 1. 遥感定向目标检测（Oriented Object Detection）、细粒度目标识别、变化检测

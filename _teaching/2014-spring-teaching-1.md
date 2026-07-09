@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "《微机应用课程设计》"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
