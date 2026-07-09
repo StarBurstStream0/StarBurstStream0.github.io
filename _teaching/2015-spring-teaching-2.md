@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "《计算机视觉》"
 collection: teaching
-type: "Workshop"
+type: "研究生课程"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "春季学期第1-17周"
+date: 2026-03-01
+location: "天赐庄校区"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+待编辑
 
 Heading 1
 ======
