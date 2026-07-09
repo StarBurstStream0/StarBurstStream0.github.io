@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "朱子聪"
   pronouns         : # example: "she/her"  
-  bio              : # "123456"
-  location         : "电子信息楼355"
+  bio              : "办公地址：电子信息楼355\n联系电话：18912670517\n个人邮箱：zczhu2023@suda.edu.cn"
+  location         : # "电子信息楼355"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : "zczhu2023@suda.edu.cn" 
+  email            : # "zczhu2023@suda.edu.cn" 
 
   # Academic websites
   academia         : # URL
