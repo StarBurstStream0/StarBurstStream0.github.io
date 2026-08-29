@@ -20,6 +20,9 @@ redirect_from:
 “不忘身心健康，保持快乐科研！”——实验室室训
 
 <img src="/images/group.png" alt="实验室成员（部分）" style="width:500px; border-radius:50%;">
+<!-- <img src="/images/group.png?v=1.0" alt="实验室成员（部分）" style="width:500px; border-radius:50%;"> -->
+<!-- <img src="{{ '/images/group.png' | relative_url }}" alt="实验室成员（部分）" style="width:500px; border-radius:50%;"> -->
+<!-- <img src="{{ '/images/group.png' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}" alt="实验室成员（部分）" style="width:500px; border-radius:50%;"> -->
 
 研究领域
 ======
