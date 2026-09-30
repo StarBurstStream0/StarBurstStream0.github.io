@@ -12,7 +12,7 @@ redirect_from:
 科研进展
 ======
 
-- **[2026.09]** 🎉 祝贺！个人一作论文 **《Bridging the Task-domain Gap in Pre-training Remote Sensing Object Detectors》** 被 **IEEE TCSVT（中科院1区，IF=10.8）** 录用！
+- **[2026.09]** 🎉 个人一作论文 **《Bridging the Task-domain Gap in Pre-training Remote Sensing Object Detectors》** 被 **IEEE TCSVT（中科院1区，IF=10.8）** 录用！
 
 招生信息
 ======
