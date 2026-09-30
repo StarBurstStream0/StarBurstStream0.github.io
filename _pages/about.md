@@ -12,7 +12,9 @@ redirect_from:
 科研进展
 ======
 
-- **[2026.09]** 🎉 个人一作论文 **《Bridging the Task-domain Gap in Pre-training Remote Sensing Object Detectors》** 被 **IEEE TCSVT（中科院1区，IF=10.8）** 录用！
+- **[2026.09]** 🎉 **个人一作**论文《Bridging the Task-domain Gap in Pre-training Remote Sensing Object Detectors》被 **IEEE TCSVT（中科院1区TOP，IF=10.8）** 录用！
+- **[2026.07]** 🎉 **学生一作**论文《Weakly Supervised Fine-Grained Aircraft Detection Based on Prior-Knowledge Prototype Learning》被 **MDPI Remote Sensing（中科院2区，IF=4.3）** 录用！
+- **[2026.03]** 🎉 **学生一作**论文《Distilling Missed Samples for Remote Sensing Oriented Object Detectors》被 **IEEE JSTARS（中科院2区TOP，IF=6.3）** 录用！
 
 招生信息
 ======
