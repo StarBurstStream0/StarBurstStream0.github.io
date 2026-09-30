@@ -19,9 +19,7 @@ redirect_from:
 招生信息
 ======
 招收学术型硕士和专业型硕士研究生，目前每年**2**个名额。
-
 欢迎电子信息、计算机等专业方向的学生踊跃报名！
-
 希望你热爱python语言编程、深度学习、计算机视觉等领域，有自己的兴趣爱好，认真踏实。
 
 “不忘身心健康，保持快乐科研！”——实验室室训
@@ -62,4 +60,4 @@ redirect_from:
 1. 中国图像图形学会CSIG遥感图像专业委员会成员
 2. MDPI Remote Sensing特刊Guest Editor
 3. IEEE/中国图像图形学会CSIG/江苏省人工智能学会会员
-4. IEEE GRSM、IEEE TGRS、ISPRS、IEEE JSTARS、IEEE GRSL、RS、《遥感学报》、《电子学报》等期刊长期审稿人
+4. IEEE GRSM、IEEE TGRS、ISPRS、SCIS、IEEE JSTARS、IEEE GRSL、RS、《遥感学报》、《电子学报》等期刊长期审稿人
