@@ -24,13 +24,14 @@ repository               : "StarBurstStream0/StarBurstStream0.github.io"
 author:
   # Biographic information
   avatar           : "zicong_zhu_compress.png"
-  name             : "朱子聪"
+  name             : "朱子聪 (Zicong Zhu)"
   pronouns         : # example: "she/her"  
   # bio              : "办公地址：电子信息楼355"<br>"联系电话：18912670517"<br>"个人邮箱：zczhu2023@suda.edu.cn"
-  # bio: |
-  #   办公地址：电子信息楼355<br>
-  #   联系电话：18912670517<br>
-  #   个人邮箱：zczhu2023@suda.edu.cn
+  bio: |
+    办公地址：电子信息楼355<br>
+    联系电话：18912670517<br>
+    个人邮箱：zczhu2023@suda.edu.cn
+
   location         : "苏州市，江苏省，中国"
   employer         : # "Red Brick University"
   uri              : # URL
@@ -39,7 +40,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=8yNl9X4AAAAJ&hl=zh-CN"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-3897-919X"
